@@ -1,0 +1,6 @@
+build/
+dist/
+lyric_scraper.egg-info/
+venv/
+.idea/
+__pycache__/
