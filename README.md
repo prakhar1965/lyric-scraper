@@ -1,6 +1,6 @@
 # Lyric - Scraper
 
-###Lyric-Scraper is a tool to get lyrics for your favourite songs.
+##Lyric-Scraper is a tool to get lyrics for your favourite songs.
 
 ## Features
 
@@ -12,7 +12,7 @@ you can directly install from pip.
 ```
 pip3 install lyric-scraper
 ```
-###OR
+##OR
 1.) clone this repository
  ```
 git clone https://github.com/prakhar1965/lyric-scraper.git
